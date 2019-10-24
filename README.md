@@ -1,4 +1,4 @@
-#hitcomic-meeting-random  
+# hitcomic-meeting-random  
 提供HIT动漫组会抽签的程序  
 UI: MDUI  
 其他控件: CountUP.js  
